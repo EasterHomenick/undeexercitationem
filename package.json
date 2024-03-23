@@ -1,0 +1,25 @@
+{
+  "name": "undeexercitationem",
+  "version": "1.0.0",
+  "description": "Array.prototype.find ES6 polyfill for ES5 versions and lower.",
+  "main": "find.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EasterHomenick/undeexercitationem.git"
+  },
+  "keywords": [
+    "enim",
+    "repellendus",
+    "js",
+    "rerum",
+    "et"
+  ],
+  "author": "MoniqueTorphy",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
